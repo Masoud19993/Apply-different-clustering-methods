@@ -1,4 +1,5 @@
-# Apply different clustering methods
+# Comparison of different clustering methods
+ different clustering methods
 
 AApplication and comparison of different clustering methods including:
 <ul>
