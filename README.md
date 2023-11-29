@@ -1,4 +1,11 @@
-# Classificatiion-for-predicting-diabets
+# Apply different clustering methods
 
-Applying classification to a dataset
-The objective of the dataset is to diagnostically predict whether a patient has diabetes, based on certain diagnostic measurements included in the dataset
+AApplication and comparison of different clustering methods including:
+<ul>
+
+
+  <li>DBSCAN</li>
+  <li>KMeans</li>
+  <li>BayesianGaussianMixture</li>
+  
+</ul>
